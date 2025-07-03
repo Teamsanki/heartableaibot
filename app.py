@@ -39,7 +39,7 @@ def start():
 
     welcome_caption = WELCOME_MSG_TEMPLATE.format(name=name)
 
-    photo_url = "https://i.ibb.co/0DXMf5T/heartable-banner.jpg"  # Example welcome image
+    photo_url = "https://graph.org/file/3afe8fb057b85cfb7ab81-d7fad6cbb095587f2e.jpg"  # Example welcome image
     payload = {
         "chat_id": user_id,
         "photo": photo_url,
