@@ -12,4 +12,4 @@ A Telegram image generation bot using pollitions.ai + Flask + Selenium.
 2. Set environment variables:
    - `BOT_TOKEN`
    - `CHAT_ID` (optional per request)
-3. Deploy & test
+3. Dep loy & test
